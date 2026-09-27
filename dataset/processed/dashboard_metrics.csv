@@ -1,0 +1,181 @@
+Contract,InternetService,PaymentMethod,tenure_group,total_customers,churned_customers,retained_customers,avg_monthly_charges,total_monthly_charges,churned_monthly_charges,avg_total_charges,avg_tenure,churn_rate
+Month-to-month,DSL,Bank transfer (automatic),0-12 Mos,79,21,58.0,50.99,4028.6,955.85,321.24,6.1,0.2658
+Month-to-month,DSL,Bank transfer (automatic),13-24 Mos,39,7,32.0,54.7,2133.45,382.45,999.94,18.2,0.1795
+Month-to-month,DSL,Bank transfer (automatic),25-48 Mos,57,9,48.0,55.85,3183.25,390.0,1899.76,34.8,0.1579
+Month-to-month,DSL,Bank transfer (automatic),49-60 Mos,17,2,15.0,51.89,882.1,95.6,2814.39,54.1,0.1176
+Month-to-month,DSL,Bank transfer (automatic),61-72 Mos,5,0,5.0,54.73,273.65,0.0,3633.68,65.6,0.0
+Month-to-month,DSL,Credit card (automatic),0-12 Mos,74,28,46.0,51.11,3782.25,1372.45,266.66,5.1,0.3784
+Month-to-month,DSL,Credit card (automatic),13-24 Mos,44,9,35.0,52.37,2304.35,456.45000000000005,967.34,18.6,0.2045
+Month-to-month,DSL,Credit card (automatic),25-48 Mos,50,11,39.0,52.85,2642.35,531.15,1872.25,35.4,0.22
+Month-to-month,DSL,Credit card (automatic),49-60 Mos,14,2,12.0,51.67,723.4,114.75,2753.16,52.7,0.1429
+Month-to-month,DSL,Credit card (automatic),61-72 Mos,3,0,3.0,66.17,198.5,0.0,4249.65,64.3,0.0
+Month-to-month,DSL,Electronic check,0-12 Mos,282,142,140.0,47.18,13305.7,6318.9,204.78,4.1,0.5035
+Month-to-month,DSL,Electronic check,13-24 Mos,85,30,55.0,51.29,4359.5,1449.3500000000001,891.05,17.4,0.3529
+Month-to-month,DSL,Electronic check,25-48 Mos,77,14,63.0,53.09,4087.5499999999997,724.3499999999999,1842.54,34.9,0.1818
+Month-to-month,DSL,Electronic check,49-60 Mos,25,6,19.0,52.89,1322.35,283.85,2917.11,55.4,0.24
+Month-to-month,DSL,Electronic check,61-72 Mos,5,0,5.0,53.47,267.35,0.0,3493.59,65.2,0.0
+Month-to-month,DSL,Mailed check,0-12 Mos,255,102,153.0,46.76,11923.15,4704.699999999998,193.58,4.0,0.4
+Month-to-month,DSL,Mailed check,13-24 Mos,64,9,55.0,53.51,3424.6,477.15000000000003,979.35,18.4,0.1406
+Month-to-month,DSL,Mailed check,25-48 Mos,43,2,41.0,53.91,2318.05,110.25,1775.02,32.6,0.0465
+Month-to-month,DSL,Mailed check,49-60 Mos,3,0,3.0,49.57,148.7,0.0,2590.58,51.0,0.0
+Month-to-month,DSL,Mailed check,61-72 Mos,2,0,2.0,54.8,109.6,0.0,3680.45,66.5,0.0
+Month-to-month,Fiber optic,Bank transfer (automatic),0-12 Mos,87,71,16.0,83.07,7227.0,5956.149999999999,541.7,6.4,0.8161
+Month-to-month,Fiber optic,Bank transfer (automatic),13-24 Mos,71,23,48.0,85.46,6067.65,1976.85,1598.0,18.6,0.3239
+Month-to-month,Fiber optic,Bank transfer (automatic),25-48 Mos,102,42,60.0,91.62,9345.15,3889.0000000000005,3307.75,36.0,0.4118
+Month-to-month,Fiber optic,Bank transfer (automatic),49-60 Mos,46,10,36.0,91.72,4218.95,953.4,4950.49,54.2,0.2174
+Month-to-month,Fiber optic,Bank transfer (automatic),61-72 Mos,21,3,18.0,95.25,2000.25,286.7,6184.79,65.1,0.1429
+Month-to-month,Fiber optic,Credit card (automatic),0-12 Mos,75,46,29.0,82.99,6224.2,3903.25,489.6,5.8,0.6133
+Month-to-month,Fiber optic,Credit card (automatic),13-24 Mos,62,28,34.0,86.6,5369.4,2459.05,1557.16,18.0,0.4516
+Month-to-month,Fiber optic,Credit card (automatic),25-48 Mos,102,33,69.0,88.41,9017.85,2929.3,3113.61,35.4,0.3235
+Month-to-month,Fiber optic,Credit card (automatic),49-60 Mos,30,8,22.0,93.56,2806.65,747.05,5021.53,53.2,0.2667
+Month-to-month,Fiber optic,Credit card (automatic),61-72 Mos,24,7,17.0,98.16,2355.75,692.5000000000001,6511.62,66.2,0.2917
+Month-to-month,Fiber optic,Electronic check,0-12 Mos,631,449,182.0,82.31,51934.95,37166.0,388.45,4.6,0.7116
+Month-to-month,Fiber optic,Electronic check,13-24 Mos,255,150,105.0,88.45,22554.8,13353.650000000001,1600.51,18.1,0.5882
+Month-to-month,Fiber optic,Electronic check,25-48 Mos,286,140,146.0,92.54,26466.05,12946.75,3250.7,35.0,0.4895
+Month-to-month,Fiber optic,Electronic check,49-60 Mos,91,37,54.0,94.28,8579.75,3489.8,5135.86,54.4,0.4066
+Month-to-month,Fiber optic,Electronic check,61-72 Mos,44,13,31.0,100.29,4412.55,1325.3,6520.88,65.0,0.2955
+Month-to-month,Fiber optic,Mailed check,0-12 Mos,123,77,46.0,79.65,9797.0,6152.899999999999,320.65,3.9,0.626
+Month-to-month,Fiber optic,Mailed check,13-24 Mos,37,14,23.0,86.84,3213.25,1257.35,1614.45,18.6,0.3784
+Month-to-month,Fiber optic,Mailed check,25-48 Mos,31,11,20.0,87.3,2706.4,996.9999999999999,2976.04,34.0,0.3548
+Month-to-month,Fiber optic,Mailed check,49-60 Mos,7,0,7.0,92.15,645.05,0.0,4887.49,53.6,0.0
+Month-to-month,Fiber optic,Mailed check,61-72 Mos,3,0,3.0,79.48,238.45,0.0,5108.48,64.0,0.0
+Month-to-month,No,Bank transfer (automatic),0-12 Mos,42,9,33.0,20.24,850.1999999999999,186.9,101.16,4.9,0.2143
+Month-to-month,No,Bank transfer (automatic),13-24 Mos,10,3,7.0,20.82,208.2,59.4,407.18,19.2,0.3
+Month-to-month,No,Bank transfer (automatic),25-48 Mos,13,1,12.0,20.99,272.85,19.65,702.52,33.9,0.0769
+Month-to-month,No,Bank transfer (automatic),49-60 Mos,0,0,,,0.0,,,,
+Month-to-month,No,Bank transfer (automatic),61-72 Mos,0,0,,,0.0,,,,
+Month-to-month,No,Credit card (automatic),0-12 Mos,42,5,37.0,20.32,853.25,103.80000000000001,119.05,5.8,0.119
+Month-to-month,No,Credit card (automatic),13-24 Mos,15,1,14.0,20.91,313.6,25.4,361.77,17.5,0.0667
+Month-to-month,No,Credit card (automatic),25-48 Mos,7,0,7.0,19.72,138.05,0.0,586.29,29.4,0.0
+Month-to-month,No,Credit card (automatic),49-60 Mos,1,0,1.0,20.0,20.0,0.0,1087.25,55.0,0.0
+Month-to-month,No,Credit card (automatic),61-72 Mos,0,0,,,0.0,,,,
+Month-to-month,No,Electronic check,0-12 Mos,41,11,30.0,20.27,830.9,218.25,81.55,3.9,0.2683
+Month-to-month,No,Electronic check,13-24 Mos,15,2,13.0,21.13,316.95,39.4,358.33,17.1,0.1333
+Month-to-month,No,Electronic check,25-48 Mos,13,0,13.0,22.47,292.15,0.0,788.74,35.8,0.0
+Month-to-month,No,Electronic check,49-60 Mos,0,0,,,0.0,,,,
+Month-to-month,No,Electronic check,61-72 Mos,0,0,,,0.0,,,,
+Month-to-month,No,Mailed check,0-12 Mos,263,63,200.0,20.26,5329.3,1262.3,70.38,3.4,0.2395
+Month-to-month,No,Mailed check,13-24 Mos,40,2,38.0,20.38,815.4,43.8,358.53,17.4,0.05
+Month-to-month,No,Mailed check,25-48 Mos,21,1,20.0,20.68,434.35,19.55,623.62,30.4,0.0476
+Month-to-month,No,Mailed check,49-60 Mos,0,0,,,0.0,,,,
+Month-to-month,No,Mailed check,61-72 Mos,1,1,0.0,19.4,19.4,19.4,1182.55,61.0,1.0
+One year,DSL,Bank transfer (automatic),0-12 Mos,4,1,3.0,47.59,190.35,24.1,457.09,9.0,0.25
+One year,DSL,Bank transfer (automatic),13-24 Mos,19,3,16.0,62.49,1187.25,180.75,1329.71,21.2,0.1579
+One year,DSL,Bank transfer (automatic),25-48 Mos,53,3,50.0,63.43,3361.8,211.75,2445.78,38.6,0.0566
+One year,DSL,Bank transfer (automatic),49-60 Mos,33,3,30.0,62.55,2064.1,204.35000000000002,3376.64,53.9,0.0909
+One year,DSL,Bank transfer (automatic),61-72 Mos,36,1,35.0,63.57,2288.45,75.8,4224.96,66.4,0.0278
+One year,DSL,Credit card (automatic),0-12 Mos,9,1,8.0,47.76,429.85,53.65,421.96,9.2,0.1111
+One year,DSL,Credit card (automatic),13-24 Mos,17,4,13.0,56.75,964.8,230.35,1077.65,18.9,0.2353
+One year,DSL,Credit card (automatic),25-48 Mos,77,8,69.0,61.65,4747.1,567.5,2263.41,36.5,0.1039
+One year,DSL,Credit card (automatic),49-60 Mos,39,2,37.0,65.41,2551.05,130.45,3571.56,54.4,0.0513
+One year,DSL,Credit card (automatic),61-72 Mos,30,2,28.0,63.26,1897.65,151.05,4167.2,66.1,0.0667
+One year,DSL,Electronic check,0-12 Mos,11,3,8.0,63.63,699.9,151.14999999999998,596.95,9.5,0.2727
+One year,DSL,Electronic check,13-24 Mos,15,1,14.0,60.32,904.8,55.95,1171.1,19.2,0.0667
+One year,DSL,Electronic check,25-48 Mos,46,2,44.0,59.41,2733.05,115.35,2164.68,36.6,0.0435
+One year,DSL,Electronic check,49-60 Mos,30,4,26.0,64.83,1944.8,264.15,3503.77,54.2,0.1333
+One year,DSL,Electronic check,61-72 Mos,14,1,13.0,69.14,968.0,45.25,4662.76,66.9,0.0714
+One year,DSL,Mailed check,0-12 Mos,18,2,16.0,51.29,923.15,144.05,472.62,8.9,0.1111
+One year,DSL,Mailed check,13-24 Mos,28,3,25.0,62.08,1738.25,208.65,1170.98,18.5,0.1071
+One year,DSL,Mailed check,25-48 Mos,65,9,56.0,59.57,3871.85,541.9499999999999,2083.2,35.1,0.1385
+One year,DSL,Mailed check,49-60 Mos,20,0,20.0,57.96,1159.25,0.0,3208.88,55.5,0.0
+One year,DSL,Mailed check,61-72 Mos,6,0,6.0,61.78,370.7,0.0,4009.42,66.0,0.0
+One year,Fiber optic,Bank transfer (automatic),0-12 Mos,0,0,,,0.0,,,,
+One year,Fiber optic,Bank transfer (automatic),13-24 Mos,6,2,4.0,93.12,558.75,198.6,1793.54,19.3,0.3333
+One year,Fiber optic,Bank transfer (automatic),25-48 Mos,50,4,46.0,94.85,4742.45,368.1,3472.15,36.4,0.08
+One year,Fiber optic,Bank transfer (automatic),49-60 Mos,43,11,32.0,100.23,4309.8,1123.35,5428.99,54.2,0.2558
+One year,Fiber optic,Bank transfer (automatic),61-72 Mos,58,6,52.0,100.04,5802.35,654.3000000000001,6715.7,66.8,0.1034
+One year,Fiber optic,Credit card (automatic),0-12 Mos,1,0,1.0,85.15,85.15,0.0,979.05,12.0,0.0
+One year,Fiber optic,Credit card (automatic),13-24 Mos,8,0,8.0,89.13,713.05,0.0,1703.47,19.2,0.0
+One year,Fiber optic,Credit card (automatic),25-48 Mos,35,6,29.0,98.43,3445.05,619.35,3956.71,39.8,0.1714
+One year,Fiber optic,Credit card (automatic),49-60 Mos,37,6,31.0,99.96,3698.4,630.9,5509.32,55.0,0.1622
+One year,Fiber optic,Credit card (automatic),61-72 Mos,69,11,58.0,100.48,6933.05,1142.1000000000001,6721.49,66.8,0.1594
+One year,Fiber optic,Electronic check,0-12 Mos,4,1,3.0,97.65,390.6,105.65,865.19,8.8,0.25
+One year,Fiber optic,Electronic check,13-24 Mos,4,1,3.0,92.2,368.8,100.95,1673.88,18.0,0.25
+One year,Fiber optic,Electronic check,25-48 Mos,59,17,42.0,95.57,5638.75,1667.95,3634.13,38.0,0.2881
+One year,Fiber optic,Electronic check,49-60 Mos,62,15,47.0,99.86,6191.4,1535.0500000000002,5469.74,54.7,0.2419
+One year,Fiber optic,Electronic check,61-72 Mos,67,17,50.0,102.18,6845.95,1740.05,6753.71,65.9,0.2537
+One year,Fiber optic,Mailed check,0-12 Mos,2,1,1.0,94.78,189.55,95.5,874.3,9.5,0.5
+One year,Fiber optic,Mailed check,13-24 Mos,5,1,4.0,94.4,472.0,105.95,1717.12,18.6,0.2
+One year,Fiber optic,Mailed check,25-48 Mos,10,4,6.0,96.45,964.5,383.70000000000005,3867.39,39.9,0.4
+One year,Fiber optic,Mailed check,49-60 Mos,13,1,12.0,97.5,1267.55,100.45,5112.01,52.5,0.0769
+One year,Fiber optic,Mailed check,61-72 Mos,6,0,6.0,104.17,625.0,0.0,6787.08,65.0,0.0
+One year,No,Bank transfer (automatic),0-12 Mos,8,1,7.0,19.96,159.7,19.8,164.8,8.8,0.125
+One year,No,Bank transfer (automatic),13-24 Mos,20,1,19.0,20.88,417.55,20.15,402.95,19.1,0.05
+One year,No,Bank transfer (automatic),25-48 Mos,37,1,36.0,21.21,784.75,25.3,777.16,36.7,0.027
+One year,No,Bank transfer (automatic),49-60 Mos,14,1,13.0,21.56,301.8,20.8,1107.2,52.3,0.0714
+One year,No,Bank transfer (automatic),61-72 Mos,10,0,10.0,21.72,217.2,0.0,1418.0,65.6,0.0
+One year,No,Credit card (automatic),0-12 Mos,10,1,9.0,20.76,207.6,19.3,140.64,6.8,0.1
+One year,No,Credit card (automatic),13-24 Mos,17,0,17.0,20.53,348.95,0.0,413.47,19.6,0.0
+One year,No,Credit card (automatic),25-48 Mos,28,0,28.0,20.87,584.25,0.0,728.75,34.4,0.0
+One year,No,Credit card (automatic),49-60 Mos,13,0,13.0,20.48,266.2,0.0,1081.63,52.9,0.0
+One year,No,Credit card (automatic),61-72 Mos,8,0,8.0,22.61,180.85,0.0,1482.53,65.4,0.0
+One year,No,Electronic check,0-12 Mos,8,0,8.0,21.16,169.25,0.0,143.41,6.9,0.0
+One year,No,Electronic check,13-24 Mos,4,0,4.0,21.24,84.95,0.0,394.11,18.2,0.0
+One year,No,Electronic check,25-48 Mos,12,1,11.0,22.05,264.6,20.4,817.79,37.9,0.0833
+One year,No,Electronic check,49-60 Mos,7,1,6.0,21.88,153.15,24.9,1178.47,54.0,0.1429
+One year,No,Electronic check,61-72 Mos,4,0,4.0,22.01,88.05000000000001,0.0,1501.55,68.2,0.0
+One year,No,Mailed check,0-12 Mos,49,2,47.0,20.28,993.8,39.6,133.27,6.6,0.0408
+One year,No,Mailed check,13-24 Mos,54,0,54.0,20.04,1081.95,0.0,366.34,18.4,0.0
+One year,No,Mailed check,25-48 Mos,46,0,46.0,20.76,955.15,0.0,711.63,34.6,0.0
+One year,No,Mailed check,49-60 Mos,10,0,10.0,20.86,208.6,0.0,1123.42,53.7,0.0
+One year,No,Mailed check,61-72 Mos,5,0,5.0,21.99,109.94999999999999,0.0,1397.76,63.8,0.0
+Two year,DSL,Bank transfer (automatic),0-12 Mos,2,0,2.0,57.22,114.44999999999999,0.0,0.0,0.0,0.0
+Two year,DSL,Bank transfer (automatic),13-24 Mos,5,0,5.0,67.93,339.65,0.0,1209.89,17.8,0.0
+Two year,DSL,Bank transfer (automatic),25-48 Mos,18,0,18.0,61.14,1100.45,0.0,2338.54,37.9,0.0
+Two year,DSL,Bank transfer (automatic),49-60 Mos,39,1,38.0,66.93,2610.45,57.55,3664.41,54.7,0.0256
+Two year,DSL,Bank transfer (automatic),61-72 Mos,160,2,158.0,72.78,11645.35,155.35,5036.19,69.1,0.0125
+Two year,DSL,Credit card (automatic),0-12 Mos,4,0,4.0,58.89,235.55,0.0,368.09,6.2,0.0
+Two year,DSL,Credit card (automatic),13-24 Mos,5,0,5.0,73.82,369.09999999999997,0.0,1511.39,20.2,0.0
+Two year,DSL,Credit card (automatic),25-48 Mos,31,1,30.0,65.95,2044.45,54.35,2691.41,40.7,0.0323
+Two year,DSL,Credit card (automatic),49-60 Mos,38,0,38.0,66.6,2530.95,0.0,3662.01,55.0,0.0
+Two year,DSL,Credit card (automatic),61-72 Mos,159,4,155.0,75.5,12004.05,307.35,5226.24,69.3,0.0252
+Two year,DSL,Electronic check,0-12 Mos,0,0,,,0.0,,,,
+Two year,DSL,Electronic check,13-24 Mos,1,0,1.0,64.35,64.35,0.0,1558.65,24.0,0.0
+Two year,DSL,Electronic check,25-48 Mos,8,0,8.0,66.41,531.3,0.0,2703.62,40.4,0.0
+Two year,DSL,Electronic check,49-60 Mos,12,0,12.0,73.25,878.95,0.0,4142.44,57.1,0.0
+Two year,DSL,Electronic check,61-72 Mos,37,4,33.0,71.21,2634.75,231.1,4907.37,68.5,0.1081
+Two year,DSL,Mailed check,0-12 Mos,12,0,12.0,58.09,697.05,0.0,286.88,5.7,0.0
+Two year,DSL,Mailed check,13-24 Mos,14,0,14.0,47.6,666.4,0.0,895.42,18.6,0.0
+Two year,DSL,Mailed check,25-48 Mos,22,0,22.0,66.68,1467.0,0.0,2710.84,40.9,0.0
+Two year,DSL,Mailed check,49-60 Mos,15,0,15.0,67.8,1017.0,0.0,3717.62,54.6,0.0
+Two year,DSL,Mailed check,61-72 Mos,46,0,46.0,71.73,3299.5,0.0,4804.26,67.1,0.0
+Two year,Fiber optic,Bank transfer (automatic),0-12 Mos,0,0,,,0.0,,,,
+Two year,Fiber optic,Bank transfer (automatic),13-24 Mos,0,0,,,0.0,,,,
+Two year,Fiber optic,Bank transfer (automatic),25-48 Mos,11,0,11.0,99.27,1092.0,0.0,4018.94,40.4,0.0
+Two year,Fiber optic,Bank transfer (automatic),49-60 Mos,17,5,12.0,99.33,1688.65,536.35,5492.98,55.2,0.2941
+Two year,Fiber optic,Bank transfer (automatic),61-72 Mos,134,10,124.0,105.54,14142.55,1043.8,7338.33,69.7,0.0746
+Two year,Fiber optic,Credit card (automatic),0-12 Mos,0,0,,,0.0,,,,
+Two year,Fiber optic,Credit card (automatic),13-24 Mos,0,0,,,0.0,,,,
+Two year,Fiber optic,Credit card (automatic),25-48 Mos,9,0,9.0,106.03,954.3,0.0,4502.19,42.6,0.0
+Two year,Fiber optic,Credit card (automatic),49-60 Mos,17,0,17.0,96.26,1636.35,0.0,5277.93,55.1,0.0
+Two year,Fiber optic,Credit card (automatic),61-72 Mos,128,6,122.0,105.3,13478.5,655.2,7333.61,69.6,0.0469
+Two year,Fiber optic,Electronic check,0-12 Mos,0,0,,,0.0,,,,
+Two year,Fiber optic,Electronic check,13-24 Mos,1,0,1.0,96.55,96.55,0.0,2263.45,24.0,0.0
+Two year,Fiber optic,Electronic check,25-48 Mos,10,2,8.0,101.8,1017.95,185.05,3805.46,36.9,0.2
+Two year,Fiber optic,Electronic check,49-60 Mos,18,2,16.0,103.39,1861.05,204.9,5798.22,56.1,0.1111
+Two year,Fiber optic,Electronic check,61-72 Mos,63,5,58.0,106.15,6687.3,525.3,7399.35,69.5,0.0794
+Two year,Fiber optic,Mailed check,0-12 Mos,0,0,,,0.0,,,,
+Two year,Fiber optic,Mailed check,13-24 Mos,0,0,,,0.0,,,,
+Two year,Fiber optic,Mailed check,25-48 Mos,5,1,4.0,100.64,503.2,95.5,4105.68,41.0,0.2
+Two year,Fiber optic,Mailed check,49-60 Mos,5,0,5.0,105.34,526.7,0.0,5924.13,55.4,0.0
+Two year,Fiber optic,Mailed check,61-72 Mos,11,0,11.0,106.91,1176.05,0.0,7343.66,68.5,0.0
+Two year,No,Bank transfer (automatic),0-12 Mos,7,0,7.0,22.19,155.3,0.0,241.78,11.1,0.0
+Two year,No,Bank transfer (automatic),13-24 Mos,7,0,7.0,22.68,158.75,0.0,421.76,18.7,0.0
+Two year,No,Bank transfer (automatic),25-48 Mos,35,0,35.0,21.29,745.15,0.0,843.67,40.0,0.0
+Two year,No,Bank transfer (automatic),49-60 Mos,30,1,29.0,21.12,633.7,19.75,1152.65,55.1,0.0333
+Two year,No,Bank transfer (automatic),61-72 Mos,99,0,99.0,22.64,2241.4,0.0,1562.25,68.8,0.0
+Two year,No,Credit card (automatic),0-12 Mos,10,0,10.0,21.58,215.8,0.0,155.78,7.6,0.0
+Two year,No,Credit card (automatic),13-24 Mos,13,0,13.0,22.06,286.8,0.0,440.16,19.7,0.0
+Two year,No,Credit card (automatic),25-48 Mos,40,1,39.0,21.45,858.15,24.75,802.44,37.0,0.025
+Two year,No,Credit card (automatic),49-60 Mos,36,1,35.0,21.44,771.8,25.15,1192.88,55.0,0.0278
+Two year,No,Credit card (automatic),61-72 Mos,91,0,91.0,22.46,2043.45,0.0,1548.89,68.6,0.0
+Two year,No,Electronic check,0-12 Mos,1,0,1.0,20.05,20.05,0.0,264.55,12.0,0.0
+Two year,No,Electronic check,13-24 Mos,0,0,,,0.0,,,,
+Two year,No,Electronic check,25-48 Mos,9,0,9.0,22.01,198.05,0.0,937.48,41.6,0.0
+Two year,No,Electronic check,49-60 Mos,2,0,2.0,22.12,44.25,0.0,1253.15,54.5,0.0
+Two year,No,Electronic check,61-72 Mos,6,0,6.0,22.31,133.85,0.0,1556.14,70.2,0.0
+Two year,No,Mailed check,0-12 Mos,32,0,32.0,20.82,666.15,0.0,131.42,6.1,0.0
+Two year,No,Mailed check,13-24 Mos,44,0,44.0,21.05,926.0,0.0,398.47,18.8,0.0
+Two year,No,Mailed check,25-48 Mos,76,1,75.0,20.84,1583.95,24.5,800.11,38.2,0.0132
+Two year,No,Mailed check,49-60 Mos,48,1,47.0,21.57,1035.35,19.35,1186.11,54.9,0.0208
+Two year,No,Mailed check,61-72 Mos,52,0,52.0,22.62,1176.0,0.0,1511.79,67.0,0.0
