@@ -92,6 +92,22 @@ def build_all_notebooks():
     ]
     create_notebook(cells_02, nb_dir / "02_exploratory_data_analysis.ipynb")
 
+    # Notebook 3: Model Training and Evaluation
+    cells_03 = [
+        make_md_cell("# 03 - Machine Learning Model Training & Evaluation\n\n**Project:** Customer Churn Intelligence Platform\n**Dataset:** IBM Telco Customer Churn\n\nThis notebook performs stratified train/test split, trains and compares 4 classification models (Logistic Regression, Decision Tree, Random Forest, XGBoost), extracts feature importance, and serializes the champion pipeline."),
+        make_code_cell("import sys\nfrom pathlib import Path\nimport pandas as pd\nimport numpy as np\n\nproject_root = Path.cwd().parent if Path.cwd().name == 'notebooks' else Path.cwd()\nsys.path.append(str(project_root))\n\nfrom src.models.train import train_and_compare_models\nfrom src.models.predict import ChurnPredictor"),
+        make_md_cell("## 1. Execute Model Training & Benchmarking"),
+        make_code_cell("metadata = train_and_compare_models(\n    data_path=str(project_root / 'dataset/processed/customers_clean.csv'),\n    artifacts_dir=str(project_root / 'artifacts'),\n    reports_dir=str(project_root / 'reports')\n)\nprint(f'Champion Model: {metadata[\"model_name\"]}')"),
+        make_md_cell("## 2. Model Comparison Metrics"),
+        make_code_cell("pd.DataFrame(metadata['all_model_comparison']).T[['accuracy', 'precision', 'recall', 'f1_score', 'roc_auc', 'pr_auc']]"),
+        make_md_cell("## 3. Top Predictive Features"),
+        make_code_cell("pd.Series(metadata['features']['top_10_features'], name='Importance').to_frame()"),
+        make_md_cell("## 4. Test Inference with Saved Pipeline"),
+        make_code_cell("predictor = ChurnPredictor(\n    model_path=str(project_root / 'artifacts/churn_pipeline.joblib'),\n    metadata_path=str(project_root / 'artifacts/model_metadata.json')\n)\nsample_customer = {\n    'gender': 'Female',\n    'SeniorCitizen': 0,\n    'Partner': 'No',\n    'Dependents': 'No',\n    'tenure': 2,\n    'PhoneService': 'Yes',\n    'MultipleLines': 'No',\n    'InternetService': 'Fiber optic',\n    'OnlineSecurity': 'No',\n    'OnlineBackup': 'No',\n    'DeviceProtection': 'No',\n    'TechSupport': 'No',\n    'StreamingTV': 'Yes',\n    'StreamingMovies': 'No',\n    'Contract': 'Month-to-month',\n    'PaperlessBilling': 'Yes',\n    'PaymentMethod': 'Electronic check',\n    'MonthlyCharges': 79.85,\n    'TotalCharges': 159.70\n}\nres = predictor.predict_single(sample_customer)\nprint('Sample Prediction Result:')\nfor k, v in res.items():\n    print(f'{k:20s}: {v}')")
+    ]
+    create_notebook(cells_03, nb_dir / "03_model_training_and_evaluation.ipynb")
+
 
 if __name__ == "__main__":
     build_all_notebooks()
+
